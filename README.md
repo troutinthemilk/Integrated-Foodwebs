@@ -8,4 +8,5 @@ We show how coupling stable isotope data with abundances can lead to better esti
 * Jake Ferguson
 * Jack Hopkins
 * Bree Witteveen
-# Integrated-Foodwebs
+
+
