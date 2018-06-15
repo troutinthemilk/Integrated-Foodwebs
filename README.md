@@ -9,5 +9,5 @@ We show how coupling stable isotope data with abundances can lead to better esti
 * Jack Hopkins
 * Bree Witteveen
 
-**Publication**: (https://doi.org/10.1111/2041-210X.13001)[https://doi.org/10.1111/2041-210X.13001]
+**Publication**: [https://doi.org/10.1111/2041-210X.13001](https://doi.org/10.1111/2041-210X.13001)
 
